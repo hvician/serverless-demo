@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="257bd833-6aaa-4207-8e2e-dfd754a9cd77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYDj4tmKIbzGgYtRzfQ9o5d9yP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../amplify-vehicle-price" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="257bd833-6aaa-4207-8e2e-dfd754a9cd77" name="Default Changelist" comment="" />
+      <created>1581214265496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581214265496</updated>
+      <workItem from="1581214266740" duration="4554000" />
+      <workItem from="1581219684005" duration="15872000" />
+      <workItem from="1581478431062" duration="3487000" />
+      <workItem from="1581868939257" duration="42000" />
+      <workItem from="1581869006666" duration="5738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1324" y="633" width="1249" height="935" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1581219639411">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1324" y="633" width="1249" height="935" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581219639411" />
+    <state x="1595" y="806" width="707" height="589" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581868975935">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1595" y="806" width="707" height="589" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581868975935" />
+    <state x="1582" y="743" key="FileChooserDialogImpl" timestamp="1581881537361">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1582" y="743" key="FileChooserDialogImpl/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581881537361" />
+    <state x="1158" y="557" width="1591" height="1087" key="SettingsEditor" timestamp="1581219670926">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1158" y="557" width="1591" height="1087" key="SettingsEditor/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581219670926" />
+    <state x="1373" y="847" key="com.intellij.ide.util.TipDialog" timestamp="1581869010479">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1373" y="847" key="com.intellij.ide.util.TipDialog/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581869010479" />
+    <state x="1304" y="643" width="1289" height="915" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581300825152">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1304" y="643" width="1289" height="915" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.34.3773.2126/3840.0.3840.2160@67.34.3773.2126" timestamp="1581300825152" />
+    <state x="5253" y="492" key="search.everywhere.popup" timestamp="1581479203772">
+      <screen x="3840" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5253" y="492" key="search.everywhere.popup/67.34.3773.2126/3840.0.3840.2160@3840.0.3840.2160" timestamp="1581479203772" />
+  </component>
+</project>

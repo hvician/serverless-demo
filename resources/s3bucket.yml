@@ -1,0 +1,14 @@
+MakeLogosBucket:
+  Type: AWS::S3::Bucket
+  Properties:
+    # Set the CORS policy
+    CorsConfiguration:
+      CorsRules:
+        -
+          AllowedOrigins:
+            - '*'
+          AllowedHeaders:
+            - '*'
+          AllowedMethods:
+            - GET
+          MaxAge: 3000

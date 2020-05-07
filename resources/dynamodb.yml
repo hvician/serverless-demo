@@ -1,0 +1,34 @@
+Resources:
+  VehiclesTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ${self:custom.tableName}
+      AttributeDefinitions:
+        - AttributeName: "id"
+          AttributeType: "N"
+        - AttributeName: "make"
+          AttributeType: "S"
+        - AttributeName: "model"
+          AttributeType: "S"
+      KeySchema:
+        - AttributeName: "id"
+          KeyType: "HASH"
+        - AttributeName: "make"
+          KeyType: "RANGE"
+      GlobalSecondaryIndexes:
+        - IndexName: "make-model-index"
+          KeySchema:
+            - AttributeName: "make"
+              KeyType: "HASH"
+            - AttributeName: "model"
+              KeyType: "RANGE"
+          Projection:
+            ProjectionType: "ALL"
+          # Index throughput
+          ProvisionedThroughput:
+            ReadCapacityUnits: 1
+            WriteCapacityUnits: 1
+      # Table throughput
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
