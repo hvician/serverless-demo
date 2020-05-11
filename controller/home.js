@@ -31,8 +31,13 @@ app.get('/', async (req, res) => {
   await res.render('home', { newval: 'test' });
 });
 
-app.get('/microservice', async (req, res) => {
-  await res.render('microservice', { newval: 'this is a sample microservice' });
+app.get('/microservice1', async (req, res) => {
+  await res.render('microservice1', { newval: 'this is a sample microservice 1' });
 });
+
+app.get('/microservice2', async (req, res) => {
+  await res.render('microservice2', { newval: 'this is a sample microservice 2' });
+});
+
 
 module.exports.handler = serverless(app);
